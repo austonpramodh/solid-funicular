@@ -1,0 +1,1 @@
+## Dockerized nginx-php-mysql server with phpmyadmin
